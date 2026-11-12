@@ -1,7 +1,5 @@
 # -bic21203-lab4a-javascript
 
-AHMAD NAIM BIN AFFANDI (AI240072)
-
 This repository contains Lab 4A solutions. 
 
 Run instructions:
